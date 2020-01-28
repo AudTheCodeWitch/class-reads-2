@@ -140,6 +140,11 @@
     padding-top: 20px;
   }
 
+  footer ul {
+    list-style-type: none;
+    text-align: center;
+  }
+
   .edit li {
     float: left;
     padding: 2px;
