@@ -15,3 +15,8 @@ require("channels")
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
+
+// Import toastr in app/javascripts/packs/application.js:
+global.toastr = require("toastr");
+
+import "../stylesheets/application"
