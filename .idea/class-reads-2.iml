@@ -28,8 +28,22 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="actioncable (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailbox (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actiontext (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionview (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activejob (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activestorage (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v6.0.2.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.4.5, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.4, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.0.2, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="byebug (v11.1.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.5, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.9.0, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v0.4.2, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
@@ -43,6 +57,7 @@
     <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.4.0, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="msgpack (v1.3.1, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.5.2, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.10.7, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-proxy (v0.6.5, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v1.1.0, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.0.3, Remote-rvm: ruby-2.6.1-p33) [gem]" level="application" />
