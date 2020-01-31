@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  resources :reading_responses
+  resources :reviews
+  resources :books
   resources :students
   resources :teachers
   devise_for :users
