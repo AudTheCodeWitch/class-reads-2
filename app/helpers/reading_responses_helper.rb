@@ -1,0 +1,2 @@
+module ReadingResponsesHelper
+end
