@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
-  resources :reading_responses
-  resources :reviews
-  resources :books
-  resources :students
-  resources :teachers
+  #resources :reading_responses
+  #resources :reviews
+  #resources :books
+  #resources :students
+  resources :teachers, only: [:show]
   devise_for :users, controllers: {
       sessions: 'users/sessions',
       passwords: 'users/passwords',
