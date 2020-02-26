@@ -50,3 +50,6 @@ gem 'devise'
 
 # Rails Admin panel
 gem 'rails_admin', '~> 2.0'
+
+# CanCanCan for authorization
+gem 'cancancan'
