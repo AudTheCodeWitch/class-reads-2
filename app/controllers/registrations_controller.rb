@@ -8,9 +8,7 @@ class RegistrationsController < Devise::RegistrationsController
                                  :password,
                                  :first_name,
                                  :last_name,
-                                 :administrator_role,
-                                 :teacher_role,
-                                 :student_role)
+                                 :role)
   end
 
   def account_update_params
